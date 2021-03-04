@@ -1,0 +1,1 @@
+# fivem_clothing_renamer
