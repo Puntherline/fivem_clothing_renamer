@@ -1,11 +1,9 @@
 # What it is and what it does
-***
 A batch script that will automate renaming clothing items so you don't have to do that anymore.
 
 <br><br>
 
 # How to use it
-***
 You need to have a properly formatted "stream" folder.
 
 Example:
@@ -29,11 +27,9 @@ Then just drag and drop the "stream" folder onto the batch file and follow the i
 <br><br>
 
 # Example
-***
 [Imgur video](https://imgur.com/a/rbTQgcs)
 
 <br><br>
 
 # Download
-***
 To download it click the green "Code" button above and select "Download ZIP". Don't forget to unpack the .bat file!
